@@ -80,7 +80,7 @@ export default function Docs() {
               <img src={person.avatar} alt={person.name} className="credit-avatar" />
               <div className="credit-info">
                 <h3>{person.name}</h3>
-                <p>Developer and owner of Zyntra bot, also Head of administration/owner of novacorp project</p>
+                <p>Developer and owner of Zyntra bot, also Head of administration/owner of novacorp project since 2022</p>
               </div>
               <div className="credit-actions">
                 <a href={person.github} target="_blank" rel="noreferrer" className="credit-btn discord">
